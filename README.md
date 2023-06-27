@@ -1,4 +1,14 @@
-# Finance-Calc
+# finalCapstone
+A repository collection containing capstone projects as part of Data science study
+
+Contents:
+ - Finance-Calc
+   - Description
+   - Installation/useage
+   - Credits
+  
+---------------------------------------------------------------------------------------------------
+
 Basic finance calculator
  - Initial release, first loop of creating a basic finance calculator 
 
