@@ -3,8 +3,8 @@ Basic finance calculator
  - Initial release, first loop of creating a basic finance calculator 
 
 #This is a program to compute financial infomation in two ways: 
-# 1) Investment interest, Both simple and compount
-# 2) Bond repayment, using value, fixed interest rate and term
+1) Investment interest, Both simple and compount
+2) Bond repayment, using value, fixed interest rate and term
 
 Installation:
 Requires installation of Python 3.14
