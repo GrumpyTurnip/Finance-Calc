@@ -21,5 +21,7 @@ Requires installation of Python 3.14
 Run via preferred coding enviroment e.g. Visual studio
 Can be run directly from terminal or cmd prompt with user input. (see screen grab)
 
+![Screen grab of installation and use of finance calculator](https://github.com/GrumpyTurnip/finalCapstone/blob/main/Screenshot%20instructions.JPG)
+
 Credits:
 Created by Sam Thompson
